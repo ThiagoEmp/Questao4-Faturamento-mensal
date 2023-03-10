@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Questão 4 Faturamento mensal", "Questão 4 Faturamento mensal\Questão 4 Faturamento mensal.csproj", "{B409A692-BCFE-416A-A2EA-D324F5FE4381}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B409A692-BCFE-416A-A2EA-D324F5FE4381}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B409A692-BCFE-416A-A2EA-D324F5FE4381}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B409A692-BCFE-416A-A2EA-D324F5FE4381}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B409A692-BCFE-416A-A2EA-D324F5FE4381}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3CDA108E-0CA9-4EAE-9FA9-BA1EDA3DEB8B}
+	EndGlobalSection
+EndGlobal
